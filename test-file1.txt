@@ -1,1 +1,2 @@
-This is a test file. Here's another change!
+This is a test file. Here's another change! 
+And this one is a master commit.
